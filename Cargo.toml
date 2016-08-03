@@ -1,0 +1,7 @@
+[package]
+name = "zrsbackup"
+version = "0.1.0"
+authors = ["root"]
+
+[dependencies.clap]
+version = "2"
